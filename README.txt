@@ -2,4 +2,4 @@
   what is branch?
   -To create branch we use command "git branch <branch name>"
   -To switch the branch we use command "git checkout <branch name>"
-  -This is master branch
+  -To check how many branches we have we use command "git branch"
